@@ -1,4 +1,4 @@
-//Problem 1
+// Problem 1
 let p1 = ()=>{
 let getMass = (n)=>{
   return Math.floor(n/3) - 2
@@ -112,7 +112,7 @@ for (let i = 0; i < arr.length; i ++){
 console.log(sum)
 }
 
-//Problem 2
+// Problem 2
 
 let p2 = ()=>{
   let arr = [60566,
